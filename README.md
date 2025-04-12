@@ -28,7 +28,7 @@ brew install uv
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/local-voice-agent.git
+git clone https://github.com/jesuscopado/local-voice-ai-agent.git
 cd local-voice-agent
 ```
 
@@ -84,7 +84,3 @@ When you speak, your audio is:
 2. Sent to a local LLM via Ollama for processing
 3. The LLM response is converted back to speech with Kokoro
 4. The audio response is streamed back to you via FastRTC
-
-## License
-
-[Add appropriate license information here]
