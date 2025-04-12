@@ -29,7 +29,7 @@ brew install uv
 
 ```bash
 git clone https://github.com/jesuscopado/local-voice-ai-agent.git
-cd local-voice-agent
+cd local-voice-ai-agent
 ```
 
 ### 3. Set up Python environment and install dependencies
