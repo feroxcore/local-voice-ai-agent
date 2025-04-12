@@ -1,4 +1,4 @@
-# Local Voice Agent
+# Local Voice AI Agent
 
 A real-time voice chat application powered by local AI models. This project allows you to have voice conversations with AI models like Gemma running locally on your machine.
 
