@@ -84,3 +84,6 @@ When you speak, your audio is:
 2. Sent to a local LLM via Ollama for processing
 3. The LLM response is converted back to speech with Kokoro
 4. The audio response is streamed back to you via FastRTC
+
+
+![Pair Programmed](https://img.shields.io/badge/pair--programmed-yes-blue)
