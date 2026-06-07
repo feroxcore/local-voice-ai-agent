@@ -2,7 +2,7 @@ from fastrtc import ReplyOnPause, Stream, get_stt_model, get_tts_model
 from ollama import chat
 
 stt_model = get_stt_model()  # moonshine/base
-tts_model = get_tts_model()  # kokoro abc
+tts_model = get_tts_model()  # kokoro
 
 
 def echo(audio):
